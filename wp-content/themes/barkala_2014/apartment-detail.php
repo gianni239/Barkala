@@ -7,9 +7,6 @@
  * The "Template Name:" bit above allows this to be selectable
  * from a dropdown menu on the edit page screen.
  *
- * @package WordPress
- * @subpackage Twenty_Twenty
- * @since Twenty Twenty 1.0
  */
 
  ?>

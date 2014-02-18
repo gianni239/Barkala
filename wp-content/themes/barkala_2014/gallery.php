@@ -44,21 +44,21 @@ get_header(); ?>
 		</div>
     <div class="gallery-viewfinder">
       <ul class="gallery-layout">
-        <li class="current"><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-1.jpg" width="1460" height="823" /></li>
-        <li class="next"><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-2.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-3.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-4.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-5.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-6.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-7.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-8.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-9.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-10.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-11.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-12.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-13.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-14.jpg" width="1460" height="823" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/gallery/lifestyle/lifestyle-15.jpg" width="1460" height="823" /></li>
+        <li class="current"><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-1.jpg" width="1000" height="667" /></li>
+        <li class="next"><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-2.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-3.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-4.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-5.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-6.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-7.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-8.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-9.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-10.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-11.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-12.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-13.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-14.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/gallery/gallery-15.jpg" width="1000" height="667" /></li>
       </ul>
     </div>
 

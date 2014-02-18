@@ -37,14 +37,12 @@ get_header(); ?>
 		</div>
     <div class="gallery-viewfinder">
       <ul class="hp-layout">
-        <li class="current"><img src="<?php bloginfo('template_url'); ?>/images/hp-1.jpg" width="1460" height="823" /></li>
-        <li class="next"><img src="<?php bloginfo('template_url'); ?>/images/hp-2.jpg" width="1460" height="821" /></li>
-        <li><img src="<?php bloginfo('template_url'); ?>/images/hp-3.jpg" width="1460" height="821" /></li>
-        
-         <li><img src="<?php bloginfo('template_url'); ?>/images/hp-4.jpg" width="1460" height="821" /></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/images/hp-5.jpg" width="1460" height="821" /></li>
-           <li><img src="<?php bloginfo('template_url'); ?>/images/hp-6.jpg" width="1460" height="821" /></li>
-           
+        <li class="current"><img src="<?php bloginfo('template_url'); ?>/images/hp-1.jpg" width="635" height="424" /></li>
+        <li class="next"><img src="<?php bloginfo('template_url'); ?>/images/hp-2.jpg" width="1000" height="667" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/images/hp-3.jpg" width="1062" height="708" /></li>        
+        <li><img src="<?php bloginfo('template_url'); ?>/images/hp-4.jpg" width="600" height="400" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/images/hp-5.jpg" width="910" height="607" /></li>
+        <li><img src="<?php bloginfo('template_url'); ?>/images/hp-6.jpg" width="1000" height="667" /></li>           
       </ul>
     </div>
 
